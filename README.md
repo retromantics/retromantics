@@ -1,4 +1,3 @@
-# Portafolio
 
 # 👋 Hola, soy Cami
 
