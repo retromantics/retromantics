@@ -1,45 +1,47 @@
+# Hi, I'm Cami Campos 👋
 
-# 👋 Hola, soy Cami
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camicampos) 
-
-Soy **Full Stack Developer** con experiencia en integraciones, backend y desarrollo de aplicaciones web. Me encanta aprender nuevas tecnologías y crear soluciones eficientes y escalables.
-
----
-## 🚀 Proyectos Destacados
-
-### 1. [Organizador de Tareas](https://retromantics.github.io/ToDoList/)
-Aplicación web para gestionar tareas y proyectos personales con prioridad y fechas de entrega.  
-**Tecnologías:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 2. [Clima App](https://retromantics.github.io/Weather-app/)
-App que muestra el clima en tiempo real según tu ubicación y ciudades favoritas.  
-**Tecnologías:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 3. [Sitio Web Recitronic](https://retromantics.github.io/AE4_ABPRO-Recitronic/)
-Aplicación tipo Notepad para crear, editar y guardar notas locales.  
-**Tecnologías:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-
-## 💻 Tecnologías que domino
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+I'm a developer and tech enthusiast exploring backend and full-stack development.  
+I enjoy building projects, learning new technologies, and sharing my progress.
 
 ---
 
-## 🌟 Contacto
+## 🚀 About Me
 
-- 🔗 LinkedIn: [linkedin.com/in/camicampos](https://linkedin.com/in/camicampos)  
+- 💻 Focused on **Backend Development**  
+- 🌱 Learning **React and TypeScript**  
+- 🎸 Hobby: Guitar, Bass, Photography, Languages  
+- 🌍 Based in Montreal, Canada  
 
+---
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Projects
+
+Here are some of my projects:
+
+- [React Meal Search App](https://github.com/retromantics/react-meal-search-app) - A React app for searching meals using an API.
+- [Personal Organizer](https://github.com/retromantics/personal-organizer) - Task and note management tool.
+- [Notepad App](https://github.com/retromantics/notepad-app) - Simple notes app built with React.
+
+---
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/cami-campos)  
+- Email: [camicam.dev@gmail.com](mailto:camicam.dev@gmail.com)
