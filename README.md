@@ -35,9 +35,9 @@ I enjoy building projects, learning new technologies, and sharing my progress.
 
 Here are some of my projects:
 
-- [React Meal Search App](https://github.com/retromantics/react-meal-search-app) - A React app for searching meals using an API.
-- [Personal Organizer](https://github.com/retromantics/personal-organizer) - Task and note management tool.
-- [Notepad App](https://github.com/retromantics/notepad-app) - Simple notes app built with React.
+- [React Meal Search App](https://retromantics.github.io/react-meal-search-app/) - A React app for searching meals using an API.
+- [Todo List](https://retromantics.github.io/ToDoList/) - To-do list tool.
+- [Weather App](https://retromantics.github.io/Weather-app/) - Simple weather app .
 
 ---
 
