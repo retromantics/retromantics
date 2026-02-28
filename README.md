@@ -1,4 +1,4 @@
-# Hi, I'm Cami Campos 👋
+# Hi, I'm Cami👋
 
 I'm a developer and tech enthusiast exploring backend and full-stack development.  
 I enjoy building projects, learning new technologies, and sharing my progress.
