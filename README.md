@@ -8,8 +8,7 @@ I enjoy building projects, learning new technologies, and sharing my progress.
 ## 🚀 About Me
 
 - 💻 Focused on **Backend Development**  
-- 🌱 Learning **React and TypeScript**  
-- 🎸 Hobby: Guitar, Bass, Photography, Languages  
+- 🌱 Learning **React and TypeScript**   
 - 🌍 Based in Montreal, Canada  
 
 ---
