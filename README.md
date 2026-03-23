@@ -33,9 +33,8 @@ I enjoy building projects, learning new technologies, and sharing my progress.
 ## 📂 Projects
 
 Here are some of my projects:
-
+- [Game Store](https://game-store-delta-seven.vercel.app/) - Simple full-stack web application to browse and manage a video game catalog.
 - [React Meal Search App](https://retromantics.github.io/react-meal-search-app/) - A React app for searching meals using an API.
-- [Todo List](https://retromantics.github.io/ToDoList/) - To-do list tool.
 - [Weather App](https://retromantics.github.io/Weather-app/) - Simple weather app .
 
 ---
